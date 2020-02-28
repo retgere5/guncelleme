@@ -8,4 +8,4 @@ apt install python2 -y
 apt install php -y
 apt install cat
 cd $HOME
-echo -e '\033[31;40;1m 			KURULUM TAMAMLANDI MUHAMMED'
+echo -e '\033[31;40;1m 			KURULUM TAMAMLANDI REIS'
